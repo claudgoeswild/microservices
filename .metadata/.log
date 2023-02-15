@@ -1353,3 +1353,18 @@ java.lang.Exception: Resource '/config-server/src/main/resources/config/applicat
 
 !ENTRY org.eclipse.lsp4e 1 0 2023-02-15 18:55:35.164
 !MESSAGE [Info]	No ES Libary found for file: file:///C:/Users/User/Desktop/microservices/microservices/greeting-service/src/main/resources/application.yml
+
+!ENTRY org.eclipse.lsp4e 1 0 2023-02-15 19:05:29.850
+!MESSAGE [Info]	No ES Libary found for file: file:///C:/Users/User/Desktop/microservices/microservices/claud-config-server/greeting-service/application-prod.yml
+
+!ENTRY org.eclipse.lsp4e 1 0 2023-02-15 19:11:05.861
+!MESSAGE [Info]	No ES Libary found for file: file:///C:/Users/User/Desktop/microservices/microservices/greeting-service/src/main/resources/application.yml
+
+!ENTRY org.eclipse.lsp4e 1 0 2023-02-15 19:14:19.612
+!MESSAGE [Info]	No ES Libary found for file: file:///C:/Users/User/Desktop/microservices/microservices/claud-config-server/greeting-service/application-qa.yml
+
+!ENTRY org.eclipse.lsp4e 1 0 2023-02-15 19:14:28.132
+!MESSAGE [Info]	No ES Libary found for file: file:///C:/Users/User/Desktop/microservices/microservices/claud-config-server/greeting-service/application-qa.yml
+
+!ENTRY org.eclipse.lsp4e 1 0 2023-02-15 19:14:30.022
+!MESSAGE [Info]	No ES Libary found for file: file:///C:/Users/User/Desktop/microservices/microservices/claud-config-server/greeting-service/application-prod.yml

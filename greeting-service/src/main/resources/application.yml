@@ -9,6 +9,12 @@ spring:
   cloud:
     config:
       profile: qa
+management:
+  endpoints:
+    web:
+      exposure:
+        include:
+        - refresh
 greeting-service:
   greeting: "Hello"
   defaultValue: "World!" 
