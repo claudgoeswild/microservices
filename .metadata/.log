@@ -1350,3 +1350,6 @@ java.lang.Exception: Resource '/config-server/src/main/resources/config/applicat
 
 !ENTRY org.eclipse.lsp4e 1 0 2023-02-15 17:44:52.977
 !MESSAGE [Info]	No ES Libary found for file: file:///C:/Users/User/Desktop/microservices/microservices/config-server/src/main/resources/application.yml
+
+!ENTRY org.eclipse.lsp4e 1 0 2023-02-15 18:55:35.164
+!MESSAGE [Info]	No ES Libary found for file: file:///C:/Users/User/Desktop/microservices/microservices/greeting-service/src/main/resources/application.yml
