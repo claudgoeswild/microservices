@@ -24,7 +24,7 @@ public class Exchange implements Serializable{
 		this.to = to;
 		this.conversionFactor = conversionFactor;
 		this.convertedValue = convertedValue;
-		this.environment = environment;
+		this.environment = environment;//returns which instance we are executing
 	}
 
 	public long getId() {
